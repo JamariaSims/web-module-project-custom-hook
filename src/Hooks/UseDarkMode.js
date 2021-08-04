@@ -1,5 +1,4 @@
 import UseLocalStorage from "./UseLocalStorage";
-import React, { useState } from "react";
 
 const darkModeOn = "false";
 const UseDarkMode = () => {
